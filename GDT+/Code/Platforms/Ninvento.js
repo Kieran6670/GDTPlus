@@ -514,7 +514,7 @@ GDT.addEvent({
             header : "Industry News".localize(),
             text: "The recently released Ninvento Swap console has caused an unusual social media storm. It all started when a consumer licked one of the game cartridges and reported that it tasted extremely bad. Thousands of consumers then repeated the experiment, tasting their cartridges and reporting the result on social media, further encouraging others to do the same.{n}Ninvento has now published an official statement to confirm that game cartridges for the Swap are coated with denatonium benzoate, a non-toxic bittering agent. This was apparently done to discourage children from biting on and swallowing the fairly small cartridges.{n}Initial reactions to the console itself have been more positive than to the taste of its cartridges as the Swap is turning out to be quite popular with gamers around the globe.".localize(),
         });
-    }
+    },
 	image : SwapImage,
 });
 
