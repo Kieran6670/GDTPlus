@@ -19,7 +19,7 @@ Improved notifications for Ninvento platforms
 Improve notifications for all vanilla platforms
 
 ## Latest development build
-GDT+ 1.0.0 Beta 1 (Build 2018.04.22)
+GDT+ 1.0.0 Beta 1 (Build 2018.04.25)
 
 ## Terms and Conditions
 By downloading and installing this mod you agree to the following terms:
