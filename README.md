@@ -13,7 +13,7 @@ Improved notifications for Vena platforms
 Improved notifications for Ninvento platforms
 
 ## WIP Features
-
+Improved notifications for Vonny platforms
 
 ## Planned Features
 Improve notifications for all vanilla platforms
